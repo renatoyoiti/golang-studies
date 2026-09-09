@@ -1,0 +1,27 @@
+# Executáveis binários gerados pelo Go
+*.exe
+*.exe;
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Arquivos de teste e cobertura de código
+*.cover
+*.mo
+*.prof
+
+# Variáveis de ambiente e segredos locais
+.env
+.env.local
+
+# IDEs e Editores de Código
+.vscode/
+.idea/
+*.swp
+*~
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
